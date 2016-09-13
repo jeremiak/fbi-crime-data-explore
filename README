@@ -1,1 +1,11 @@
 poking around with fbi crime data :)
+
+---
+
+running locally:
+
+$ virtualenv -p python3.5 venv
+$ source venv/bin/activate
+$ pip install -r requirements.txt
+
+$ jupyter notebook
