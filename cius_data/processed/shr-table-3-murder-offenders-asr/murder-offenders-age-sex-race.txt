@@ -1,6 +1,6 @@
 # Age, sex, and race for murder offenders from 2006 to 2013
 
-Generated from the following tables in the corresponding year's Crime in the US data table download:
+Generated from the following tables in the Supplemental Homicide Report (SHR) from the corresponding year's Crime in the US data table download:
 2006: 06shrtable3.xls
 2007: 07shrtbl3.xls
 2008: 08shrtbl03.xls
