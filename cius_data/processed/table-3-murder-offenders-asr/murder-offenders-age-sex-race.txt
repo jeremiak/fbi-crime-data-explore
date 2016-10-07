@@ -1,0 +1,14 @@
+# Age, sex, and race for murder offenders from 2006 to 2013
+
+Generated from the following tables in the corresponding year's Crime in the US data table download:
+2006: 06shrtable3.xls
+2007: 07shrtbl3.xls
+2008: 08shrtbl03.xls
+2009: 09shrtbl03.xls
+2010: 10shrtbl03.xls
+2011: Expanded_Homicide_Data_Table_3_Murder_Offenders_by_Age_Sex_and_Race_2011.xls
+2012: Expanded_Homicide_Data_Table_3_Murder_Offenders_by_Age_Sex_and_Race_2012.xls
+2013: Expanded_Homicide_Data_Table_3_Murder_Offenders_by_Age_Sex_and_Race_2013.xls
+
+Footnotes/caveats:
+Age bins such as under 18, under 22, and 18 and over do not include unknown ages
