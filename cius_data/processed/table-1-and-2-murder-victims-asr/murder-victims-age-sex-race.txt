@@ -1,0 +1,13 @@
+# Age, sex, and race for murder victims from 2004 to 2013
+
+Generated from the following tables in the corresponding year's Crime in the US data table download:
+2004: 04tbl2-3a.xls, 04tbl2-4a.xls
+2005: 05shrtab1.xls, 05shrtab2.xls
+2006: 06shrtable1.xls, 06shrtable2.xls
+2007: 07shrtbl1.xls, 07shrtbl2.xls
+2008: 08shrtbl01.xls, 08shrtbl02.xls
+2009: 09shrtbl01.xls, 09shrtbl02.xls
+2010: 10shrtbl01.xls, 10shrtbl02.xls
+2011: Expanded_Homicide_Data_Table_1_Murder_Victims_by_Race_and_Sex_2011.xls, Expanded_Homicide_Data_Table_2_Murder_Victims_by_Age_Sex_and_Race_2011.xls
+2012: Expanded_Homicide_Data_Table_1_Murder_Victims_by_Race_and_Sex_2012.xls, Expanded_Homicide_Data_Table_2_Murder_Victims_by_Age_Sex_and_Race_2012.xls
+2013: Expanded_Homicide_Data_Table_1_Murder_Victims_by_Race_and_Sex_2013.xls, Expanded_Homicide_Data_Table_2_Murder_Victims_by_Age_Sex_and_Race_2013.xls
