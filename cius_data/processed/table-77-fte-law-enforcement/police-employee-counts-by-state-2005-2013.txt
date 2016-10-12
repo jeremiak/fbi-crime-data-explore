@@ -1,0 +1,15 @@
+# Yearly totals for law enforcement employee counts by state from 2005 to 2013
+
+Generated from the following tables of the corresponding year's Crime in the US data table download:
+2005: 05tbl77.xls
+2006: 06tbl77.xls
+2007: 07tbl77.xls
+2008: 08tbl77.xls
+2009: 09tbl77.xls
+2010: 10tbl77.xls
+2011: Table_77_Full-time_Law_Enforcement_Employees_by_State_2011.xls
+2012: Table_77_Full_time_Law_Enforcement_Employess_by_State_2012.xls
+2013: Table_77_Full_time_Law_Enforcement_Employess_by_State_2013.xls
+
+Footnotes/caveats:
+Some states are missing some years. For example, West Virginia did not submit 2008 totals
